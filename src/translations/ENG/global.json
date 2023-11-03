@@ -1,0 +1,105 @@
+{
+    "header": {
+        "nav-bar":{
+            "nav-link-1": "Home",
+            "nav-link-2": "Experience",
+            "nav-link-3": "Skills",
+            "nav-link-4": "Projects",
+            "nav-link-5": "Contact"
+        },
+
+        "tooltip-info-mode": "Change Theme",
+
+        "download-button": "Download CV"
+    },
+
+    "presentation":{
+        "sayHello": "Hi, I'm YOUR NAME",
+        "professions": ["One Profession", "Optional Profession"],
+        "resume": "Don't forget tell about your self :), Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius semper aliquet. Duis rutrum a est et pellentesque. Pellentesque quis pretium odio. Aliquam eget tempus libero. Vestibulum sodales lorem quis gravida tempus.",
+        "cta-button": "Let's Talk!"
+    },
+
+    "experiencieTitle": "We're I've Worked",
+
+    "workSection":
+        [{
+            "id": 3,
+            "bussinessName": "Job Number 3",
+            "time": "Time Job",
+            "charge": "Position",
+            "tasks": [
+                "Tell us in task, what you did",
+                "Task1",
+                "Task2"
+            ],
+            "tools": [["tool1","#"],["tool2","#"],["tool3","#"]]
+        },{
+            "id": 2,
+            "bussinessName": "Job Number 2",
+            "time": "Time Job",
+            "charge": "Position",
+            "tasks": [
+                "Tell us in task, what you did",
+                "Task1",
+                "Task2"
+            ],
+            "tools": [["tool1","#"],["tool2","#"],["tool3","#"]]
+        },{
+            "id": 1,
+            "bussinessName": "Job Number 3",
+            "time": "Time Job",
+            "charge": "Position",
+            "tasks": [
+                "Tell us in task, what you did",
+                "Task1",
+                "Task2"
+            ]
+        }
+    ],
+
+    "projectsTitle": "Projects",
+
+    "projectsSection":[
+        {
+            "id": 2,
+            "projectName": "Project 2",
+            "projectType": "Type like: freelance, personal, educational",
+            "projectDesc": "Describe the project, the scope, the objetives and only the relevant things"
+        },{
+            "id": 1,
+            "projectName": "Project 1",
+            "projectType": "Type Project",
+            "projectDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius semper aliquet. Duis rutrum a est et pellentesque. Pellentesque quis pretium odio. Aliquam eget tempus libero. Vestibulum sodales lorem quis gravida tempus. Morbi sem nulla, ornare bibendum mollis a, placerat sit amet augue"
+        }
+    ],
+
+    "contactTitle": "Contact",
+
+    "contactSection": [
+        {
+            "id": 1,
+            "contact": "Email",
+            "contactImage": "/images/gmail_logo.png",
+            "contactInfo": "your email here",
+            "contactLink": "mailto:YOUREMAIL@HERE.com?subject=I%20saw%20your%20information&body=Let's%20Talk...%0D%0A"
+        },{
+            "id": 2,
+            "contact": "Linkedin",
+            "contactImage": "/images/linkedin_logo.png",
+            "contactInfo": "Profile Name",
+            "contactLink": "#"
+        },{
+            "id": 3,
+            "contact": "Indeed",
+            "contactImage": "/images/indeed_logo.png",
+            "contactInfo": "Profile Name",
+            "contactLink": "#"
+        }
+    ],
+
+    "contactMessage":"Or download my CV for more info...",
+
+    "downloadMessage":"Download!!!"
+    
+}

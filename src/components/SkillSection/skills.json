@@ -1,0 +1,32 @@
+{
+    "skills-col-1": [
+        {
+            "skillName": "Skill1",
+            "percentage": "80%"
+        },{
+            "skillName": "Skill2",
+            "percentage": "70%"
+        },{
+            "skillName": "Skill3",
+            "percentage": "80%"
+        },{
+            "skillName": "Skill4",
+            "percentage": "70%"
+        }
+    ],
+    "skills-col-2":[
+        {
+            "skillName": "Skill5",
+            "percentage": "80%"
+        },{
+            "skillName": "Skill6",
+            "percentage": "40%"
+        },{
+            "skillName": "Skill7",
+            "percentage": "50%"
+        },{
+            "skillName": "Skill8",
+            "percentage": "70%"
+        }
+    ]
+}
