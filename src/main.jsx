@@ -11,8 +11,12 @@ import global_eng from "./translations/ENG/global.json"
 import global_spa from "./translations/SPA/global.json"
 
 // i18next init
+// here you can add o remove the differents languages
+// take care about the names of the folders 
+// if you add a language dont forget import the global file
 i18next.init({
   interpolation: {escapeValue: false},
+  // the default language
   lng: 'ENG',
   resources:{
     SPA:{
